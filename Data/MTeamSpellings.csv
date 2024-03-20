@@ -123,6 +123,7 @@ cal riverside,1415
 cal st. fullerton,1168
 cal st. northridge,1169
 cal state bakersfield,1167
+cal st. bakersfield,1167
 cal state fullerton,1168
 cal state northridge,1169
 cal state-fullerton,1168
@@ -351,6 +352,7 @@ houston,1222
 houston bap,1223
 houston baptist,1223
 houston chr,1223
+houston christian,1223
 houston-baptist,1223
 howard,1224
 idaho,1225
@@ -439,6 +441,7 @@ lipscomb,1252
 little rock,1114
 little-rock,1114
 liu brooklyn,1254
+liu,1254
 liu-brooklyn,1254
 long beach st,1253
 long beach st.,1253
@@ -764,6 +767,7 @@ providence,1344
 purdue,1345
 purdue fort wayne,1236
 queens nc,1474
+queens,1474
 quinnipiac,1346
 radford,1347
 rhode island,1348
@@ -786,6 +790,7 @@ sacred heart,1357
 sacred-heart,1357
 saint bonaventure,1382
 saint francis (ny),1383
+saint francis,1383
 st. francis ny,1383
 saint francis (pa),1384
 st. francis pa,1384
@@ -801,6 +806,7 @@ saint peter's,1389
 saint peter`s,1389
 saint peter�s,1389
 saint thomas (minn.),1472
+st. thomas,1472
 saint-francis-pa,1384
 saint-josephs,1386
 saint-louis,1387
@@ -969,6 +975,7 @@ syracuse,1393
 tam c,1394
 tam c. christi,1394
 tarleton st,1470
+tarleton st.,1470
 tarleton state,1470
 tcu,1395
 temple,1396
@@ -1012,6 +1019,7 @@ texas-el-paso,1431
 texas-pan american,1410
 texas-pan-american,1410
 texas-rio grande valley,1410
+ut rio grande valley,1410
 texas-san antonio,1427
 texas-san antonio(ut,1427
 texas-san-antonio,1427
@@ -1030,6 +1038,7 @@ troy st.,1407
 tulane,1408
 tulsa,1409
 tx a&m commerce,1477
+texas a&m commerce,1477
 tx pan american,1410
 tx southern,1411
 uab,1412
@@ -1160,6 +1169,7 @@ william-mary,1456
 winston salem,1445
 winston-salem,1445
 winston-salem-state,1445
+winston salem st.,1445
 winthrop,1457
 wis.-green bay,1453
 wis.-milwaukee,1454
