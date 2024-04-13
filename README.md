@@ -14,7 +14,9 @@ This project applies a Random Forest machine learning model to predict game resu
 Data was collected using a custom Python web scraper targeting historical statistics from [KenPom.com](https://kenpom.com/). The collected data spans from 2002 through 2024, focusing on metrics relevant to NCAA Men's basketball games.
 
 ### Data Columns:
-- 
+- AdjEM: Adjusted Efficiency Margin
+- AdjO: Adjusted Offensive Efficiency
+  - Points Scored per 100 possessions (adjusted for opponent)
 
 ## Model Description
 The Random Forest model was implemented in the Jupyter Notebook `ml_alog1.ipynb`. This model predicts the outcomes of the games using features derived from the historical data. Model performance and tuning details are documented within the notebook.
