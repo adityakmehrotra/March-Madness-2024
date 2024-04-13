@@ -17,6 +17,8 @@ Data was collected using a custom Python web scraper targeting historical statis
 - AdjEM: Adjusted Efficiency Margin
 - AdjO: Adjusted Offensive Efficiency
   - Points Scored per 100 possessions (adjusted for opponent)
+- AdjD: Adjusted Defensive Efficiency
+  - Points Allowed per 100 possessions (adjusted for opponent)
 
 ## Model Description
 The Random Forest model was implemented in the Jupyter Notebook `ml_alog1.ipynb`. This model predicts the outcomes of the games using features derived from the historical data. Model performance and tuning details are documented within the notebook.
