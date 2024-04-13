@@ -24,7 +24,7 @@ To run the model:
 1. Ensure you have Python installed along with the necessary libraries: pandas, numpy, sklearn, and matplotlib.
 2. Navigate to the Code directory and open `ml_alog1.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run the cells in the notebook to train the model and make predictions using `pred_data.csv`.
-4. 
+
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
 
