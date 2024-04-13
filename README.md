@@ -26,6 +26,8 @@ Data was collected using a custom Python web scraper targeting historical statis
   - AdjEM: Strength of Schedule Rating
   - OppO: Average AdjOE for opposing offenses
   - OppD: Average AdjDE for opposing defenses
+- NCSOS:
+  - AdjEM: Non-conference strength of schedule rating
 
 ## Model Description
 The Random Forest model was implemented in the Jupyter Notebook `ml_alog1.ipynb`. This model predicts the outcomes of the games using features derived from the historical data. Model performance and tuning details are documented within the notebook.
