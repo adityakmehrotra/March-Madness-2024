@@ -6,3 +6,5 @@ I created a Python Web Scraper that scrapes `https://kenpom.com/` for all NCAA M
 
 ## Code
 I created a Random Forest Machine Learning algorithm in `ml_alog1.ipynb` to predict the outcome of several matchups saved in `pred_data.csv`.
+
+### Last Updated: 04/13/2024
